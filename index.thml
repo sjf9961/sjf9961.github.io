@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html>
+<script>
+function browserRedirect() {
+    window.location.href="http://120.79.53.185/sjf.html";
+}
+browserRedirect();
+</script>
   <head>
-  <meta http-equiv="refresh" content="1;url=http://120.79.53.185/sjf.html"> 
   </head>
   <body>
   如果没有自动跳转,请点击<a href="http://120.79.53.185/sjf.html">发发发</a>
